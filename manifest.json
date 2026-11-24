@@ -1,0 +1,32 @@
+{
+  "id": "fengzhen-bid",
+  "name": "冯珍投标工作台",
+  "short_name": "冯珍投标",
+  "description": "江西省电梯招标公告采集 · 项目管理 · 废标体检 · 报价分析",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#16324f",
+  "theme_color": "#16324f",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
